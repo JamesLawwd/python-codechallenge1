@@ -68,7 +68,7 @@ Technologies Used
 
 # Author 
 
-<James>
+James
 
 # LICENSE
 
